@@ -1,0 +1,51 @@
+h1 {
+  padding: 10px;
+  font-size: 50px;
+}
+header {
+  background-color: antiquewhite;
+  text-align: center;
+  color: orange;
+  padding: 20px;
+}
+footer {
+  background-color: rgb(155, 222, 203);
+  font-size: 15px;
+  color: rgb(60, 60, 60);
+  padding: 3px;
+}
+.box1,
+.box2 {
+  display: inline-block;
+  width: 25%;
+  height: 30%;
+  background-color: white;
+}
+.box2 {
+  float: right;
+  width: 45%;
+  padding-top: 40px;
+}
+#img-myself {
+  width: 200%;
+}
+.first-main {
+  width: 50%;
+  padding: 35px;
+  margin: 0 auto;
+  justify-content: center;
+}
+.first-line {
+  text-align: left;
+  font-size: 15px;
+  padding-left: 20px;
+}
+.secondh2 {
+  text-align: center;
+  color: orange;
+}
+.p2 {
+  text-align: left;
+  color: rgb(60, 60, 60);
+  padding-bottom: 30px;
+}
