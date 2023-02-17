@@ -30,8 +30,8 @@ footer {
   width: 200%;
 }
 .first-main {
-  width: 50%;
-  padding: 35px;
+  width: 60%;
+  padding: 0px;
   margin: 0 auto;
   justify-content: center;
 }
@@ -48,4 +48,14 @@ footer {
   text-align: left;
   color: rgb(60, 60, 60);
   padding-bottom: 30px;
+}
+article {
+  padding: 100px 100px 0px 100px;
+}
+.hr {
+  margin: 50px;
+}
+.p3 {
+  text-align: left;
+  color: rgb(60, 60, 60);
 }
